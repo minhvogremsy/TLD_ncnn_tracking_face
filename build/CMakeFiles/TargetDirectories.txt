@@ -1,0 +1,5 @@
+/home/gremsy/Face-Tracking-Using-CNN-and-Optical-Flow/build/CMakeFiles/rebuild_cache.dir
+/home/gremsy/Face-Tracking-Using-CNN-and-Optical-Flow/build/CMakeFiles/edit_cache.dir
+/home/gremsy/Face-Tracking-Using-CNN-and-Optical-Flow/build/CMakeFiles/demo.dir
+/home/gremsy/Face-Tracking-Using-CNN-and-Optical-Flow/build/CMakeFiles/TLD.dir
+/home/gremsy/Face-Tracking-Using-CNN-and-Optical-Flow/build/CMakeFiles/ncnn_mtcnn_tld_so.dir

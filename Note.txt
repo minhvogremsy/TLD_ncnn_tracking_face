@@ -1,0 +1,4 @@
+- install ncnn
+error 
+undefined reference to `vkAllocateCommandBuffers 
+fixed : add -lvulkan to target_link_libraries

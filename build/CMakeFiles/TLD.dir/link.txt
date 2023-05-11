@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libTLD.a CMakeFiles/TLD.dir/include/TLD.o
+/usr/bin/ranlib ../lib/libTLD.a
